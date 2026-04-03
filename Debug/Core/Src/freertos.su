@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:19:6:StartTask3_UARTReceive	48	static
+../Core/Src/freertos.c:64:6:StartTask4_OLEDDisplay	48	static
+../Core/Src/freertos.c:106:6:vApplicationGetIdleTaskMemory	24	static
