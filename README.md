@@ -92,7 +92,7 @@ ASCII text encoding is used for human-readability during debugging and ease of p
 | Component | Part |
 |---|---|
 | MCU A | ESP32-WROOM-32 |
-| MCU B | STM32F103C8T6 (Blue Pill) |
+| MCU B |STM32F103RB  (NUCLEO)  | |
 | Display | SSD1306 128×64 I2C OLED |
 | Sensor | 10kΩ Potentiometer |
 
